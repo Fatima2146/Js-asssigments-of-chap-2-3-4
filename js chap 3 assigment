@@ -1,1 +1,17 @@
+// Chapter 3:
+// Question 1.
+let age = alert("I am 18 years old");
 
+// Question 2.
+let web = prompt("How many times you have visit this page") ;
+alert("you have visited this page" + web + "times");
+
+// Question 3.
+let birthYear = "2006"
+document.write("My brith year is " + birthYear);
+
+// Question 4.
+let  name =  "Ayesha Ashraf";
+let product =   "T-Shirt";
+let quantity =    5;
+document.write( "<br>" + name   + "   ordered " +  quantity   +     product  +   "    on xyz clothing.com");
